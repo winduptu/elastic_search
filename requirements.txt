@@ -1,0 +1,6 @@
+pandas
+streamlit
+elasticsearch
+numpy
+pytz
+IPython
